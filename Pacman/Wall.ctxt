@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=position
+comment0.target=Wall(Vector)
+comment1.params=
+comment1.target=Vector\ getPosition()
+numComments=2

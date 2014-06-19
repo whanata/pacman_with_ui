@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Vector(int,\ int)
+comment1.params=
+comment1.target=int\ getX()
+comment2.params=
+comment2.target=int\ getY()
+comment3.params=
+comment3.target=Vector\ opposite()
+comment4.params=other
+comment4.target=boolean\ equals(Vector)
+comment5.params=other
+comment5.target=void\ add(Vector)
+comment6.params=
+comment6.target=Vector\ clone()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

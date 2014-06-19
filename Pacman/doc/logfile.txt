@@ -1,0 +1,47 @@
+Class documentation
+<---- javadoc command: ---->
+/usr/lib/jvm/java-1.7.0-oracle-1.7.0.51.x86_64/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+/opt/bluej-3.1.0/lib/bluejcore.jar:/opt/bluej-3.1.0/lib/junit-4.8.2.jar:/media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman
+-d
+/media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman/doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+/opt/bluej-3.1.0/lib/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman/Game.java
+<---- end of javadoc command ---->
+Loading source file /media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman/Game.java...
+/media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman/Game.java:65: error: <identifier> expected
+    }        System.out.println(Layout.ROWS[0].length() + " , " + Layout.ROWS.length - 1);
+                               ^
+/media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman/Game.java:65: error: ']' expected
+    }        System.out.println(Layout.ROWS[0].length() + " , " + Layout.ROWS.length - 1);
+                                            ^
+/media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman/Game.java:65: error: ')' expected
+    }        System.out.println(Layout.ROWS[0].length() + " , " + Layout.ROWS.length - 1);
+                                             ^
+/media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman/Game.java:65: error: ';' expected
+    }        System.out.println(Layout.ROWS[0].length() + " , " + Layout.ROWS.length - 1);
+                                              ^
+/media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman/Game.java:65: error: invalid method declaration; return type required
+    }        System.out.println(Layout.ROWS[0].length() + " , " + Layout.ROWS.length - 1);
+                                               ^
+/media/Wira/2014 - 1/Programming Fundamentals/Java Programming/Assignment 2/Assignment 2 Version 6/Pacman/Game.java:65: error: ';' expected
+    }        System.out.println(Layout.ROWS[0].length() + " , " + Layout.ROWS.length - 1);
+                                                       ^
+6 errors

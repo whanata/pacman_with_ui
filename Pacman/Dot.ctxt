@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=position
+comment0.target=Dot(Vector)
+comment1.params=
+comment1.target=Vector\ getPosition()
+comment2.params=
+comment2.target=boolean\ exists()
+comment3.params=position
+comment3.target=int\ disappear(Vector)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

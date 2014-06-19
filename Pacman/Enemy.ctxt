@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=position
+comment0.target=Enemy(Vector)
+comment1.params=
+comment1.target=Vector\ getPosition()
+comment2.params=
+comment2.target=void\ backward()
+comment3.params=player\ counter
+comment3.target=void\ move(Player,\ int)
+comment4.params=player\ enemy
+comment4.target=double\ power(int,\ int)
+comment5.params=a\ b
+comment5.target=double\ root(double,\ double)
+comment6.params=player\ number
+comment6.target=void\ decisionMaking(Vector,\ int)
+comment7.params=player
+comment7.target=void\ kill(Player)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
